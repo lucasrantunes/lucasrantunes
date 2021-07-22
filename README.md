@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucasrantunes
 - 👀 I’m interested in computer technology in general and I study Electrical Engineering at University
-- 🌱 I’m currently learning C, Python and a lot of other stuff
+- 🌱 I’m currently learning C, Matlab and a lot of other stuff
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: lucasrantunes@protonmail.com
 
